@@ -1,0 +1,6 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama:  Imam Sujatmiko
+2. Email: imamsujat@gmail.com
+3. Sistem Operasi yang digunakan: macOS Monterey
+4. Akun Gitlab/Github: https://github.com/imammiko
+5. Akun Telegram: imsuj
